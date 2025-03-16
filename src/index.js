@@ -15,9 +15,9 @@ function Greeting() {
                 </div>
                 <div className="list">
                     <ul>
-                        <li><a href="#">Music</a></li>
-                        <li><a href="#">Games</a></li>
-                        <li><a href="#">Programming</a></li>
+                        <li><a href="https://example.com/music">Music</a></li>
+                        <li><a href="https://example.com/games">Games</a></li>
+                        <li><a href="https://example.com/programming">Programming</a></li>
                     </ul>
                 </div>
             </React.Fragment>  
